@@ -1,0 +1,5 @@
+Este archivo representa las variables de sesión del proyecto.
+Aquí se documenta cómo se manejarían en un entorno real.
+Ejemplo:
+usuario = andres
+estado_sesion = activa
